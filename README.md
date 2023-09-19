@@ -1,7 +1,7 @@
 # Chatter
 A realtime chat application that lets connected users chat with each other.
 
-Just need to visit the page and enter the name to get started with coversation.
+Just need to visit the page and enter the name to get started with conversation.
 
 Live link: https://chatter-ol42.onrender.com/
 
